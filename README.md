@@ -1,1 +1,2 @@
 # 6.041-probability-systems-analysis
+- Course link: [6.041SC | Fall 2013 | Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
